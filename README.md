@@ -16,6 +16,4 @@ Please Feel free to make contributions to this project.
 ## License
 
 📄 This project is licensed under the **MIT License**.
-
-
-🎉 Thank you for choosing Prisa v1.0! Experience the power of online shopping at your fingertips!
+This is an open source project Feel free to make contributions
